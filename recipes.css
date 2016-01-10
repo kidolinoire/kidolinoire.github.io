@@ -20,7 +20,7 @@ header {
   color: white;
   text-align: center;
   display: block;
-  width: 97%;
+  width: 100%;
 }
   header img {
     width: 50%;
@@ -51,6 +51,7 @@ section {
   width: 50%;
   display: inline-block;
   background-color: #FFED8C;
+  color: black;
   padding: 20px;
   border-left: 3px solid gray;
   border-right: 3px solid gray;
